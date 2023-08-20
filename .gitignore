@@ -2,3 +2,5 @@
 .idea/
 data/
 *.pth
+LJSpeech-1.1/
+**.html
